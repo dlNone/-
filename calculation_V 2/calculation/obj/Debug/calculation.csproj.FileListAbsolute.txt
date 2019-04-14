@@ -1,0 +1,34 @@
+C:\Users\DL Zhang\Desktop\calculation\calculation\bin\Debug\calculation.exe.config
+C:\Users\DL Zhang\Desktop\calculation\calculation\bin\Debug\calculation.exe
+C:\Users\DL Zhang\Desktop\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.Cache
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.exe
+C:\Users\DL Zhang\Desktop\calculation\calculation\obj\Debug\calculation.pdb
+C:\Users\dlzhang\Desktop\calculation\calculation\bin\Debug\calculation.exe.config
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.exe
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.pdb
+C:\Users\dlzhang\Desktop\calculation\calculation\bin\Debug\calculation.exe
+C:\Users\dlzhang\Desktop\calculation\calculation\bin\Debug\calculation.pdb
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\dlzhang\Desktop\calculation\calculation\obj\Debug\calculation.csproj.GenerateResource.Cache
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\calculation.exe.config
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.exe
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.pdb
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\calculation.exe
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\calculation.pdb
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.Properties.Resources.resources
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.csproj.GenerateResource.Cache
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.Form1.resources
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.csprojResolveAssemblyReference.cache
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\obj\Debug\calculation.csproj.ResolveComReference.cache
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Spire.Doc.Wpf.dll
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Spire.Pdf.Wpf.dll
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Spire.License.dll
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Microsoft.mshtml.dll
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Spire.Doc.Wpf.xml
+C:\Users\DL Zhang\Desktop\计算题\calculation_V 2\calculation\bin\Debug\Spire.License.xml
